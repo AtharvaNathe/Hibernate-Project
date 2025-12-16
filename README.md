@@ -9,7 +9,7 @@ This is a simple Java-based application for managing bank accounts. It includes 
 - Create a new bank account
 - View account details
 - Update account balance
-- Delete an existing account
+- Delete an existing account 
 - List all accounts
 
 ---
