@@ -1,6 +1,6 @@
 # 🏦 Bank Account Management System (Java)
 
-This is a simple Java-based application for managing bank accounts. It includes functionality to create new accounts, update balances, delete accounts, and retrieve account information. The system is designed using object-oriented principles and is ideal for academic or beginner Java development projects.
+This is a simple Java-based application for managing bank accounts. It includes functionality to create new accounts, update balances, delete accounts, and retrieve account information. The system is designed using object-oriented principles and is ideal for academic or beginner Java development projects. 
 
 ---
 
