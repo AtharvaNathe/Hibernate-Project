@@ -4,7 +4,7 @@ This is a simple Java-based application for managing bank accounts. It includes 
 
 ---
 
-## 📂 Features
+## 📂 Features 
 
 - Create a new bank account
 - View account details
